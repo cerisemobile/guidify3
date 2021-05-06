@@ -83,14 +83,14 @@
       },
       "main": {
         "_comment": "more=put developer id",
-        "more": "5700313618786177705"
+        "more": ""
       },
       "list": {
         "item": {
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 5000
           }
         }
