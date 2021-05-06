@@ -93,7 +93,7 @@
         }
       },
       "item": {
-        "native_ad": true,
+        "native_ad": false,
         "banner_ad": true,
         "interstitial_ad": false
       }
