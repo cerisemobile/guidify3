@@ -3,9 +3,9 @@
     "version": "2.0.0",
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "admob",
-      "mode_ads_interstitial": "admob",
-      "mode_ads_native": "admob",
+      "mode_ads_banner": "facebook",
+      "mode_ads_interstitial": "facebook",
+      "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -61,7 +61,7 @@
     },
     "popup": {
       "_comment": "link= , appid, url",
-      "enabled": false,
+      "enabled": true,
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "title": "Toca Life!\uD83C\uDF89",
       "description": "Download and Enjoy!\n\uD83D\uDC4FNeon Rainbow Apartment\nThe new Life Wordl Town!\nBuild stories\nCreate Your World!",
@@ -69,13 +69,13 @@
     },
     "activities": {
       "splash": {
-        "duration": 5000
+        "duration": 2000
       },
       "start": {
         "enabled": true,
         "loader": {
           "enabled": true,
-          "duration": 5000
+          "duration": 4000
         }
       },
       "main": {
@@ -85,9 +85,9 @@
       "list": {
         "item": {
           "_comment": "type = image, text, card",
-          "type": "image",
+          "type": "card",
           "loader": {
-            "enabled": false,
+            "enabled": true,
             "duration": 5000
           }
         }
@@ -95,7 +95,7 @@
       "item": {
         "native_ad": true,
         "banner_ad": true,
-        "interstitial_ad": true
+        "interstitial_ad": false
       }
     }
   },
