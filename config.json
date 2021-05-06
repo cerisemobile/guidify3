@@ -91,14 +91,14 @@
           "type": "image",
           "loader": {
             "enabled": true,
-            "duration": 3000
+            "duration": 4000
           }
         }
       },
       "item": {
         "native_ad": true,
         "banner_ad": true,
-        "interstitial_ad": true
+        "interstitial_ad": false
       }
     }
   },
