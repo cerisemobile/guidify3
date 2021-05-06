@@ -1,8 +1,8 @@
 {
   "config": {
-    "version": "2.0.0",
+    "version": "3.0.0",
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "admob",
       "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
@@ -15,7 +15,11 @@
       },
       "admob": {
         "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": "ca-app-pub-3940256099942544/1033173712",
+        "admob_interstitial_id": [
+          "ca-app-pub-3940256099942544/1033173712",
+          "ca-app-pub-3940256099942544/1033173712",
+          "ca-app-pub-3940256099942544/1033173712"
+        ],
         "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
@@ -35,7 +39,6 @@
         "unity_rewarded_id": ""
       },
       "ironsource": {
-
       }
     },
     "update": {
@@ -52,7 +55,7 @@
       "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "link": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
       "loader": {
-        "enabled": false,
+        "enabled": true,
         "duration": 5000
       }
     },
@@ -69,25 +72,25 @@
     },
     "activities": {
       "splash": {
-        "duration": 3000
+        "duration": 5000
       },
       "start": {
-        "enabled": false,
+        "enabled": true,
         "loader": {
-          "enabled": false,
-          "duration": 4000
+          "enabled": true,
+          "duration": 5000
         }
       },
       "main": {
         "_comment": "more=put developer id",
-        "more": ""
+        "more": "5700313618786177705"
       },
       "list": {
         "item": {
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 5000
           }
         }
@@ -95,7 +98,7 @@
       "item": {
         "native_ad": true,
         "banner_ad": true,
-        "interstitial_ad": false
+        "interstitial_ad": true
       }
     }
   },
