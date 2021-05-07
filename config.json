@@ -86,7 +86,7 @@
           "_comment": "type = image, text, card",
           "type": "image",
           "loader": {
-            "enabled": true,
+            "enabled": false,
             "duration": 4000
           }
         }
