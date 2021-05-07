@@ -2,10 +2,10 @@
   "config": {
     "version": "3.0.0",
     "ads": {
-      "enabled": true,
-      "mode_ads_banner": "admob",
-      "mode_ads_interstitial": "admob",
-      "mode_ads_native": "admob",
+      "enabled": false,
+      "mode_ads_banner": "facebook",
+      "mode_ads_interstitial": "facebook",
+      "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
@@ -15,7 +15,11 @@
       },
       "admob": {
         "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": ["ca-app-pub-3940256099942544/1033173712"],
+        "admob_interstitial_id": [
+          "ca-app-pub-3940256099942544/1033173712",
+          "ca-app-pub-3940256099942544/1033173712",
+          "ca-app-pub-3940256099942544/1033173712"
+        ],
         "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
@@ -71,10 +75,10 @@
         "duration": 5000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
-          "duration": 4000
+          "enabled": false,
+          "duration": 5000
         }
       },
       "main": {
@@ -87,14 +91,14 @@
           "type": "image",
           "loader": {
             "enabled": false,
-            "duration": 4000
+            "duration": 5000
           }
         }
       },
       "item": {
         "native_ad": true,
         "banner_ad": true,
-        "interstitial_ad": false
+        "interstitial_ad": true
       }
     }
   },
