@@ -6,7 +6,7 @@
       "mode_ads_banner": "facebook",
       "mode_ads_interstitial": "facebook",
       "mode_ads_native": "facebook",
-      "mode_ads_rewarded": "",
+      "mode_ads_rewarded": ""
       "adcolony": {
         "adcolony_app_id": "appaa814d2551b94cdb81",
         "adcolony_interstitial_id": "vz8a72e7b691d04847bb",
@@ -15,9 +15,7 @@
       },
       "admob": {
         "admob_banner_id": "ca-app-pub-3940256099942544/6300978111",
-        "admob_interstitial_id": [
-          "ca-app-pub-3940256099942544/1033173712",
-        ],
+        "admob_interstitial_id": ["ca-app-pub-3940256099942544/1033173712"],
         "admob_native_id": "ca-app-pub-3940256099942544/2247696110",
         "admob_rewarded_id": "",
         "admob_unit_id": ""
