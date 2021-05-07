@@ -3,8 +3,8 @@
     "version": "3.0.0",
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
+      "mode_ads_banner": "adcolony",
+      "mode_ads_interstitial": "adcolony",
       "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
