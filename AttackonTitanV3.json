@@ -2,7 +2,7 @@
   "config": {
     "version": "3.0.0",
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "admob",
       "mode_ads_interstitial": "admob",
       "mode_ads_native": "admob",
