@@ -27,7 +27,7 @@
       },
       "facebook": {
         "facebook_banner_id": "173984344607169_173984997940437",
-        "facebook_interstitial_id": "173984344607169_173985677940369",
+        "facebook_interstitial_id": "173984344607169_173985727940364",
         "facebook_native_id": "173984344607169_173986137940323"
       },
       "unity": {
@@ -75,7 +75,7 @@
       "start": {
         "enabled": false,
         "loader": {
-          "enabled": false,
+          "enabled": true,
           "duration": 5000
         }
       },
