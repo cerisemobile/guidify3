@@ -3,8 +3,8 @@
     "version": "3.0.0",
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
+      "mode_ads_banner": "unity",
+      "mode_ads_interstitial": "unity",
       "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
@@ -31,7 +31,7 @@
         "facebook_native_id": "173984344607169_173986137940323"
       },
       "unity": {
-        "unity_app_id": "4100687",
+        "unity_app_id": "4127192",
         "unity_banner_id": "Banner_Android",
         "unity_interstitial_id": "Interstitial_Android",
         "unity_rewarded_id": ""
