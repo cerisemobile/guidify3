@@ -70,7 +70,7 @@
     },
     "activities": {
       "splash": {
-        "duration": 5000
+        "duration": 3000
       },
       "start": {
         "enabled": false,
@@ -89,7 +89,7 @@
           "type": "image",
           "loader": {
             "enabled": false,
-            "duration": 5000
+            "duration": 4000
           }
         }
       },
