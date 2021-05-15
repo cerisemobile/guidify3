@@ -3,14 +3,14 @@
     "version": "3.0.0",
     "ads": {
       "enabled": true,
-      "mode_ads_banner": "unity",
-      "mode_ads_interstitial": "unity",
+      "mode_ads_banner": "adcolony",
+      "mode_ads_interstitial": "adcolony",
       "mode_ads_native": "facebook",
       "mode_ads_rewarded": "",
       "adcolony": {
-        "adcolony_app_id": "appaa814d2551b94cdb81",
-        "adcolony_interstitial_id": "vz8a72e7b691d04847bb",
-        "adcolony_banner_id": "vz50e276396cb0423581",
+        "adcolony_app_id": "app512eb40889c14575a2",
+        "adcolony_interstitial_id": "vz3f404c45eabd4d6199",
+        "adcolony_banner_id": "vz61325e0eaa6c44f8aa",
         "adcolony_rewarded_id": ""
       },
       "admob": {
