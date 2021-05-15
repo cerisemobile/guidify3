@@ -62,11 +62,11 @@
     },
     "popup": {
       "_comment": "link= , appid, url",
-      "enabled": false,
-      "image": "https://raw.githubusercontent.com/medprogrammer/configs/main/Webp.net-compress-image.jpg",
-      "title": "Toca Life!\uD83C\uDF89",
-      "description": "Download and Enjoy!\n\uD83D\uDC4FNeon Rainbow Apartment\nThe new Life Wordl Town!\nBuild stories\nCreate Your World!",
-      "link": "http://google.com"
+      "enabled": true,
+      "image": "https://gyazo.com/2acb4ec88bfcc55f7788d37619107a5e.png",
+      "title": "iPhone 12 Pro!\uD83C\uDF89",
+      "description": "Click and Enjoy!\n\uD83D\uDC4FYour Chance to get a iPhone 12 Pro!",
+      "link": "https://smrturl.co/o/181478/53182571?s1="
     },
     "activities": {
       "splash": {
