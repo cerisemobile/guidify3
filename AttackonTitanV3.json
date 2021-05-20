@@ -73,9 +73,9 @@
         "duration": 3000
       },
       "start": {
-        "enabled": true,
+        "enabled": false,
         "loader": {
-          "enabled": true,
+          "enabled": false,
           "duration": 4000
         }
       },
