@@ -3,9 +3,9 @@
     "version": "3.0.0",
     "ads": {
       "enabled": false,
-      "mode_ads_banner": "facebook",
-      "mode_ads_interstitial": "facebook",
-      "mode_ads_native": "facebook",
+      "mode_ads_banner": "unity",
+      "mode_ads_interstitial": "unity",
+      "mode_ads_native": "x",
       "mode_ads_rewarded": "",
       "adcolony": {
         "adcolony_app_id": "v4vcf6e293698edc44c5ab",
