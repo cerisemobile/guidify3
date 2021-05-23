@@ -62,7 +62,7 @@
     },
     "popup": {
       "_comment": "link= , appid, url",
-      "enabled": true,
+      "enabled": false,
       "image": "https://sc04.alicdn.com/kf/He3d4d87b045a435bba1e7c556ef29857c.jpg",
       "title": "\uD83C\uDF89Install, Run App + Complete Survey\uD83C\uDF89",
       "description": "\n\uD83D\uDC4FTake Surveys Earn Gift Card Rewards\n\uD83D\uDC4FRedeem Points for free gift cards!🏆",
