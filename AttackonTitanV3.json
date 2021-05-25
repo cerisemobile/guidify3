@@ -2,7 +2,7 @@
   "config": {
     "version": "3.0.0",
     "ads": {
-      "enabled": false,
+      "enabled": true,
       "mode_ads_banner": "unity",
       "mode_ads_interstitial": "unity",
       "mode_ads_native": "x",
@@ -65,7 +65,7 @@
       "enabled": true,
       "image": "https://play-lh.googleusercontent.com/h-AyhG6EFGR2Xag3JPtsnzLcFDgoHa-Ohc87_RxrxOiu-KqGPGWhAqfRXpdvYD-KzYg=s180-rw",
       "title": "\uD83C\uDF89Install Game AOT\uD83C\uDF89",
-      "description": "\n\uD83D\uDC4FAttack on titan 2 final battle game\n\uD83D\uDC4F made by fans of AOT game!🏆",
+      "description": "\n\uD83D\uDC4FAttack on titan game Official\n\uD83D\uDC4F made by fans of AOT game!🏆",
       "link": "com.attackontitangame.bestsimulatormobile.appnana"
     },
     "activities": {
